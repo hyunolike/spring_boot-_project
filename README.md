@@ -1,2 +1,2 @@
 # spring_boot-_project
-admin page 연습
+admin page 만들기👋
